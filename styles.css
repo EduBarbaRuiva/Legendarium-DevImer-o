@@ -1,7 +1,7 @@
 /* Importa a fonte Chakra Petch do Google Fonts */
 @font-face {
     font-family: 'RingBarer';
-    src: url('fonts/RingBarer.ttf') format('truetype');
+    src: url('RingBarer.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
   }
